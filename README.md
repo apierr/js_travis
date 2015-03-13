@@ -1,0 +1,1 @@
+Build status: [![Build Status](https://travis-ci.org/antonio-pierro/js_travis.svg?branch=master)](https://travis-ci.org/antonio-pierro/js_travis)
